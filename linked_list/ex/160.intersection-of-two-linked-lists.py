@@ -17,6 +17,13 @@ class Solution(object):
         :type head1, head1: ListNode
         :rtype: ListNode
         """
+        # p1遍历完表1遍历表2， p2遍历完表2遍历表1， 在交点相遇
+        p1, p2 = headA, headB
+        while p1!=p2:
+            p1 = headB if p1 is None else p1.next
+            p2 = headA if p2 is None else p2.next
+        return p1
+                
         
 # @lc code=end
 
