@@ -3,7 +3,6 @@
 
 | No. | - | link | - | tag |
 |------|----------|------|------|------|
-<!-- | 141  | Linked List Cycle | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | ✅ | 快慢指针 | -->
 | 21   | Merge Two Sorted Lists | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | ✅ | 双指针 |
 | 23   | Merge k Sorted Lists | [LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/) | ✅ | 双指针, 最小堆; O(Nlogk) |
 | 86   | Partition List | [LeetCode](https://leetcode.com/problems/partition-list/) | ✅ | 双指针 |
