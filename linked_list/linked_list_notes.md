@@ -8,7 +8,7 @@
 | 86   | Partition List | [LeetCode](https://leetcode.com/problems/partition-list/) | ✅ | 双指针 |
 | 19   | Remove Nth Node From End of List | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ⚠️ | 快慢指针 + 虚拟头节点 |
 | 876  | Middle of the Linked List | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | ✅ | 快慢指针 |
-| 142  | Linked List Cycle II | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) | ✅ | 快慢指针|
+| 142  | Linked List Cycle II | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) | ❌ | 快慢指针|
 | 160  | Intersection of Two Linked Lists | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) | ❌ | 双指针, 拼接链表 |
 ---
 
